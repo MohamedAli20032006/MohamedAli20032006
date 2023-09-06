@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **full stack**
 
-- 👨‍💻 All of my projects are available at [my Github account](my Github account)
+- 👨‍💻 All of my projects are available at [MohamedAli20032006]
 
 - 💬 Ask me about **Python, Django , Javascript**
 
